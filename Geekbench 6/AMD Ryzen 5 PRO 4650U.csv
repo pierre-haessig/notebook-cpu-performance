@@ -1,4 +1,14 @@
 System,CPU Name,CPU Freq,CPU Cores,Uploaded,Platform,Single-Core Score,Multi-Core Score,URL
+LENOVO 20UGS0XJ00,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 21, 2025",Windows,1004.0,3810.0,https://browser.geekbench.com/v6/cpu/10660008
+LENOVO 20U6S48W00,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 20, 2025",Windows,1436.0,4013.0,https://browser.geekbench.com/v6/cpu/10647986
+LENOVO 20U6S0J900,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 20, 2025",Windows,1449.0,4959.0,https://browser.geekbench.com/v6/cpu/10644345
+HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 19, 2025",Windows,1403.0,5367.0,https://browser.geekbench.com/v6/cpu/10633159
+LENOVO 20UES40K00,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 19, 2025",Windows,1461.0,4555.0,https://browser.geekbench.com/v6/cpu/10618763
+LENOVO 20UES40K00,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 18, 2025",Windows,1469.0,4427.0,https://browser.geekbench.com/v6/cpu/10611975
+HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 17, 2025",Linux,1510.0,5931.0,https://browser.geekbench.com/v6/cpu/10593060
+HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 17, 2025",Linux,1398.0,4051.0,https://browser.geekbench.com/v6/cpu/10592940
+HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 17, 2025",Linux,1443.0,3969.0,https://browser.geekbench.com/v6/cpu/10592938
+HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 17, 2025",Linux,1440.0,3903.0,https://browser.geekbench.com/v6/cpu/10592936
 HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 15, 2025",Windows,1005.0,3773.0,https://browser.geekbench.com/v6/cpu/10546473
 HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 13, 2025",Windows,1004.0,3720.0,https://browser.geekbench.com/v6/cpu/10509859
 LENOVO 20UES3CD00,AMD Ryzen 5 PRO 4650U,2100,6,"Feb 12, 2025",Windows,1337.0,3180.0,https://browser.geekbench.com/v6/cpu/10501048
@@ -989,13 +999,3 @@ LENOVO 20UD0010MX,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 15, 2023",Linux,1490.0,4594.
 LENOVO 20UD0010MX,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 15, 2023",Linux,1485.0,4232.0,https://browser.geekbench.com/v6/cpu/3091774
 LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 12, 2023",Windows,1510.0,5540.0,https://browser.geekbench.com/v6/cpu/3039696
 LENOVO 20UD0006US,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 11, 2023",Windows,1448.0,4426.0,https://browser.geekbench.com/v6/cpu/3030324
-LENOVO 20UD0006US,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 11, 2023",Windows,1218.0,3867.0,https://browser.geekbench.com/v6/cpu/3030240
-LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 11, 2023",Windows,1478.0,5278.0,https://browser.geekbench.com/v6/cpu/3027324
-HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 11, 2023",Windows,1031.0,4076.0,https://browser.geekbench.com/v6/cpu/3022756
-LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 10, 2023",Windows,1485.0,5091.0,https://browser.geekbench.com/v6/cpu/3004953
-LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 10, 2023",Windows,1498.0,5128.0,https://browser.geekbench.com/v6/cpu/3004802
-LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 10, 2023",Windows,1504.0,4682.0,https://browser.geekbench.com/v6/cpu/3004739
-HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 09, 2023",Windows,1498.0,6034.0,https://browser.geekbench.com/v6/cpu/3001805
-HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 09, 2023",Windows,1086.0,3974.0,https://browser.geekbench.com/v6/cpu/3001673
-HP HP EliteBook 845 G7 Notebook PC,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 09, 2023",Windows,670.0,3057.0,https://browser.geekbench.com/v6/cpu/3001543
-LENOVO 20UES1K600,AMD Ryzen 5 PRO 4650U,2100,6,"Oct 08, 2023",Windows,1468.0,4203.0,https://browser.geekbench.com/v6/cpu/2975690
