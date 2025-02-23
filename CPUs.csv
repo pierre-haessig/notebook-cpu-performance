@@ -1,0 +1,18 @@
+Name,Launch date,Cores,Age,Architecture,GB6 Single,GB6 Multi,Designer,Win11
+Intel Core i5-6200U,2015-07-01,2,9.7,Skylake,916.0,1832.0,Intel,No
+Intel Core i5-6300U,2015-07-01,2,9.7,Skylake,965.0,1910.0,Intel,No
+Intel Core i5-7300U,2017-01-01,2,8.1,Kaby Lake,1088.0,2030.0,Intel,No
+Intel Core i5-8250U,2017-07-01,4,7.6,Kaby Lake R,1145.0,3126.0,Intel,Yes
+Intel Core i5-8350U,2017-07-01,4,7.6,Kaby Lake R,1191.0,3237.0,Intel,Yes
+Intel Core i5-8365U,2019-04-01,4,5.9,Whiskey Lake,1270.0,3167.0,Intel,Yes
+Intel Core i5-9400H,2019-04-01,4,5.9,Coffee Lake,1429.0,4347.0,Intel,Yes
+Intel Core i5-10210U,2019-07-01,4,5.7,Comet Lake,1229.0,3088.0,Intel,Yes
+Intel Core i5-10310U,2020-04-01,4,4.9,Comet Lake,1297.0,3450.0,Intel,Yes
+Intel Core i5-1135G7,2020-07-01,4,4.6,Tiger Lake,1702.0,4694.0,Intel,Yes
+Intel Core i5-1145G7,2021-01-01,4,4.1,Tiger Lake,1766.0,4873.0,Intel,Yes
+Intel Core i5-1245U,2022-01-01,10,3.1,Alder Lake,1964.0,6269.0,Intel,Yes
+Intel Core i5-1335U,2023-01-01,10,2.1,Raptor Lake,2103.0,6786.0,Intel,Yes
+AMD Ryzen 7 PRO 2700U,2017-10-01,4,7.4,Raven Ridge,914.0,2545.0,AMD,No
+AMD Ryzen 5 PRO 3500U,2019-01-01,4,6.1,Picasso,949.0,2620.0,AMD,Yes
+AMD Ryzen 5 PRO 4650U,2020-07-01,6,4.6,Renoir,1421.0,4591.0,AMD,Yes
+AMD Ryzen 5 PRO 5650U,2021-03-01,6,4.0,Cezanne,1740.0,5479.0,AMD,Yes
