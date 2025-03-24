@@ -1,0 +1,393 @@
+System,CPU Name,CPU Freq,CPU Cores,Uploaded,Platform,Single-Core Score,Multi-Core Score,URL
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Mar 18, 2025",Windows,1632.0,8961.0,https://browser.geekbench.com/v6/cpu/11086688
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,4600,14,"Mar 17, 2025",Linux,2309.0,10643.0,https://browser.geekbench.com/v6/cpu/11067270
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Mar 13, 2025",Windows,1955.0,9935.0,https://browser.geekbench.com/v6/cpu/10998508
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Mar 13, 2025",Windows,2005.0,10220.0,https://browser.geekbench.com/v6/cpu/10998371
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Mar 12, 2025",Windows,2320.0,11734.0,https://browser.geekbench.com/v6/cpu/10986036
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Mar 12, 2025",Windows,2027.0,10246.0,https://browser.geekbench.com/v6/cpu/10985908
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 10, 2025",Windows,2132.0,9551.0,https://browser.geekbench.com/v6/cpu/10949917
+Google PIXEL 2 XL,Intel Core Ultra 5 135H,2000,2,"Mar 08, 2025",Android,1404.0,4219.0,https://browser.geekbench.com/v6/cpu/10921132
+Dell Inc. Precision 3590,Intel Core Ultra 5 135H,1700,14,"Mar 05, 2025",Windows,2228.0,10942.0,https://browser.geekbench.com/v6/cpu/10873231
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 04, 2025",Windows,2281.0,9254.0,https://browser.geekbench.com/v6/cpu/10860835
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 04, 2025",Windows,2204.0,9542.0,https://browser.geekbench.com/v6/cpu/10860753
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 04, 2025",Windows,2250.0,9248.0,https://browser.geekbench.com/v6/cpu/10860561
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Mar 03, 2025",Windows,2115.0,10731.0,https://browser.geekbench.com/v6/cpu/10847111
+innotek GmbH VirtualBox,Intel Core Ultra 5 135H,3187,4,"Mar 02, 2025",Linux,807.0,3901.0,https://browser.geekbench.com/v6/cpu/10830227
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Feb 28, 2025",Windows,2292.0,10518.0,https://browser.geekbench.com/v6/cpu/10793101
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Feb 28, 2025",Windows,2240.0,10148.0,https://browser.geekbench.com/v6/cpu/10793018
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Feb 28, 2025",Windows,2237.0,9861.0,https://browser.geekbench.com/v6/cpu/10792842
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 28, 2025",Windows,2209.0,9918.0,https://browser.geekbench.com/v6/cpu/10791644
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 28, 2025",Windows,1610.0,5371.0,https://browser.geekbench.com/v6/cpu/10791568
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 26, 2025",Windows,2058.0,9147.0,https://browser.geekbench.com/v6/cpu/10764981
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3191,12,"Feb 26, 2025",Windows,1928.0,7077.0,https://browser.geekbench.com/v6/cpu/10763913
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 21, 2025",Windows,2256.0,10596.0,https://browser.geekbench.com/v6/cpu/10667707
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 18, 2025",Windows,2238.0,9743.0,https://browser.geekbench.com/v6/cpu/10615946
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,400,14,"Feb 18, 2025",Windows,2238.0,9218.0,https://browser.geekbench.com/v6/cpu/10611405
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Feb 16, 2025",Windows,2008.0,10614.0,https://browser.geekbench.com/v6/cpu/10565226
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 14, 2025",Windows,2009.0,8547.0,https://browser.geekbench.com/v6/cpu/10532935
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 14, 2025",Windows,2049.0,8311.0,https://browser.geekbench.com/v6/cpu/10529332
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Feb 12, 2025",Windows,2213.0,9911.0,https://browser.geekbench.com/v6/cpu/10488272
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Feb 11, 2025",Windows,2149.0,11154.0,https://browser.geekbench.com/v6/cpu/10461593
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Feb 10, 2025",Windows,1685.0,10801.0,https://browser.geekbench.com/v6/cpu/10459404
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 09, 2025",Windows,2144.0,10473.0,https://browser.geekbench.com/v6/cpu/10432841
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 09, 2025",Windows,2204.0,9976.0,https://browser.geekbench.com/v6/cpu/10432630
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Feb 07, 2025",Windows,987.0,6335.0,https://browser.geekbench.com/v6/cpu/10368313
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Feb 06, 2025",Windows,1159.0,7288.0,https://browser.geekbench.com/v6/cpu/10363012
+LENOVO 21G20024US,Intel Core Ultra 5 135H,1700,14,"Feb 06, 2025",Windows,1507.0,9918.0,https://browser.geekbench.com/v6/cpu/10361571
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 03, 2025",Windows,2261.0,9789.0,https://browser.geekbench.com/v6/cpu/10277268
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Feb 03, 2025",Windows,2225.0,6193.0,https://browser.geekbench.com/v6/cpu/10277166
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3191,14,"Feb 01, 2025",Windows,2172.0,10504.0,https://browser.geekbench.com/v6/cpu/10226944
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2025",Windows,2339.0,11496.0,https://browser.geekbench.com/v6/cpu/10199228
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 29, 2025",Windows,2190.0,9884.0,https://browser.geekbench.com/v6/cpu/10187634
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jan 29, 2025",Windows,1976.0,11640.0,https://browser.geekbench.com/v6/cpu/10185943
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jan 29, 2025",Windows,1917.0,11679.0,https://browser.geekbench.com/v6/cpu/10184189
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jan 29, 2025",Windows,2002.0,11554.0,https://browser.geekbench.com/v6/cpu/10184101
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 26, 2025",Windows,2242.0,10241.0,https://browser.geekbench.com/v6/cpu/10132074
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 26, 2025",Windows,1778.0,8967.0,https://browser.geekbench.com/v6/cpu/10122573
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 26, 2025",Windows,2263.0,11518.0,https://browser.geekbench.com/v6/cpu/10122518
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 25, 2025",Windows,2120.0,9188.0,https://browser.geekbench.com/v6/cpu/10109552
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,1236.0,7491.0,https://browser.geekbench.com/v6/cpu/10091960
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,1561.0,9257.0,https://browser.geekbench.com/v6/cpu/10091856
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,2291.0,11623.0,https://browser.geekbench.com/v6/cpu/10091772
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,2025.0,8861.0,https://browser.geekbench.com/v6/cpu/10091648
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,2166.0,9965.0,https://browser.geekbench.com/v6/cpu/10083450
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 24, 2025",Windows,2165.0,9913.0,https://browser.geekbench.com/v6/cpu/10083379
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jan 20, 2025",Windows,2061.0,5532.0,https://browser.geekbench.com/v6/cpu/10029267
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Jan 20, 2025",Windows,2299.0,10659.0,https://browser.geekbench.com/v6/cpu/10029135
+LENOVO 21KWCT01WW,Intel Core Ultra 5 135H,4600,14,"Jan 18, 2025",Linux,2310.0,11558.0,https://browser.geekbench.com/v6/cpu/9993094
+LENOVO 21KWCT01WW,Intel Core Ultra 5 135H,4600,14,"Jan 18, 2025",Linux,2310.0,11561.0,https://browser.geekbench.com/v6/cpu/9992790
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,4600,14,"Jan 15, 2025",Linux,2375.0,10191.0,https://browser.geekbench.com/v6/cpu/9948170
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3194,14,"Jan 14, 2025",Windows,2214.0,9804.0,https://browser.geekbench.com/v6/cpu/9924753
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jan 10, 2025",Windows,1998.0,6881.0,https://browser.geekbench.com/v6/cpu/9868937
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Jan 09, 2025",Windows,1573.0,9079.0,https://browser.geekbench.com/v6/cpu/9856252
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Jan 09, 2025",Windows,1579.0,9203.0,https://browser.geekbench.com/v6/cpu/9856078
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 29, 2024",Windows,2283.0,9751.0,https://browser.geekbench.com/v6/cpu/9671902
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 29, 2024",Windows,2269.0,10361.0,https://browser.geekbench.com/v6/cpu/9671824
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 29, 2024",Windows,2010.0,7347.0,https://browser.geekbench.com/v6/cpu/9662756
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3190,4,"Dec 28, 2024",Windows,2232.0,5621.0,https://browser.geekbench.com/v6/cpu/9649101
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 25, 2024",Windows,2250.0,10705.0,https://browser.geekbench.com/v6/cpu/9598254
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 25, 2024",Windows,1677.0,7130.0,https://browser.geekbench.com/v6/cpu/9598185
+LENOVO 21KSCTO1WW,Intel Core Ultra 5 135H,1700,14,"Dec 24, 2024",Windows,1523.0,6946.0,https://browser.geekbench.com/v6/cpu/9591835
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 22, 2024",Windows,1236.0,7656.0,https://browser.geekbench.com/v6/cpu/9563716
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 22, 2024",Windows,1232.0,6588.0,https://browser.geekbench.com/v6/cpu/9563641
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 22, 2024",Windows,1212.0,7752.0,https://browser.geekbench.com/v6/cpu/9563471
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3196,14,"Dec 21, 2024",Windows,2207.0,6390.0,https://browser.geekbench.com/v6/cpu/9540454
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 21, 2024",Windows,1309.0,5745.0,https://browser.geekbench.com/v6/cpu/9533400
+ADLINK Technology Inc. cExpress-MTL,Intel Core Ultra 5 135H,3600,14,"Dec 19, 2024",Windows,2243.0,10698.0,https://browser.geekbench.com/v6/cpu/9499891
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3193,14,"Dec 18, 2024",Windows,2294.0,11657.0,https://browser.geekbench.com/v6/cpu/9490272
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3193,14,"Dec 18, 2024",Windows,2269.0,11740.0,https://browser.geekbench.com/v6/cpu/9490188
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3193,14,"Dec 18, 2024",Windows,2274.0,10797.0,https://browser.geekbench.com/v6/cpu/9489907
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3190,14,"Dec 17, 2024",Windows,2072.0,8406.0,https://browser.geekbench.com/v6/cpu/9476327
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3190,14,"Dec 17, 2024",Windows,1060.0,5377.0,https://browser.geekbench.com/v6/cpu/9476226
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3190,14,"Dec 17, 2024",Windows,1112.0,4527.0,https://browser.geekbench.com/v6/cpu/9474938
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 17, 2024",Windows,1696.0,6360.0,https://browser.geekbench.com/v6/cpu/9466232
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 17, 2024",Windows,1908.0,8768.0,https://browser.geekbench.com/v6/cpu/9466090
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3079,14,"Dec 16, 2024",Windows,2327.0,11718.0,https://browser.geekbench.com/v6/cpu/9457692
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,371,9,"Dec 15, 2024",Windows,1727.0,7150.0,https://browser.geekbench.com/v6/cpu/9434725
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,398,9,"Dec 15, 2024",Windows,1811.0,6510.0,https://browser.geekbench.com/v6/cpu/9434457
+SAS Workmini-T03,Intel Core Ultra 5 135H,1700,14,"Dec 13, 2024",Windows,2106.0,10303.0,https://browser.geekbench.com/v6/cpu/9395606
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Dec 11, 2024",Windows,2233.0,10422.0,https://browser.geekbench.com/v6/cpu/9369222
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Dec 11, 2024",Windows,2264.0,10773.0,https://browser.geekbench.com/v6/cpu/9366944
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3199,14,"Dec 11, 2024",Windows,2261.0,9913.0,https://browser.geekbench.com/v6/cpu/9366864
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Dec 11, 2024",Windows,2281.0,10881.0,https://browser.geekbench.com/v6/cpu/9366359
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 11, 2024",Windows,2236.0,10635.0,https://browser.geekbench.com/v6/cpu/9366190
+ASUSTeK COMPUTER INC. NUC14RVK,Intel Core Ultra 5 135H,3600,14,"Dec 11, 2024",Windows,2285.0,11267.0,https://browser.geekbench.com/v6/cpu/9366117
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 11, 2024",Windows,2239.0,10721.0,https://browser.geekbench.com/v6/cpu/9366044
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 11, 2024",Windows,2231.0,9687.0,https://browser.geekbench.com/v6/cpu/9365783
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 11, 2024",Windows,2180.0,8998.0,https://browser.geekbench.com/v6/cpu/9365057
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Dec 06, 2024",Windows,2246.0,11413.0,https://browser.geekbench.com/v6/cpu/9279270
+LENOVO 21KWCTO1WW,Intel Core Ultra 5 135H,4600,14,"Dec 05, 2024",Linux,2326.0,10959.0,https://browser.geekbench.com/v6/cpu/9261741
+LENOVO 21KWCTO1WW,Intel Core Ultra 5 135H,4600,14,"Dec 05, 2024",Linux,2325.0,10994.0,https://browser.geekbench.com/v6/cpu/9261474
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,4600,14,"Dec 05, 2024",Linux,2441.0,11365.0,https://browser.geekbench.com/v6/cpu/9254412
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,4600,14,"Dec 05, 2024",Linux,2407.0,11373.0,https://browser.geekbench.com/v6/cpu/9254119
+SAS Workmini-T03,Intel Core Ultra 5 135H,1700,14,"Dec 04, 2024",Windows,2293.0,11119.0,https://browser.geekbench.com/v6/cpu/9233792
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Dec 03, 2024",Windows,2113.0,8339.0,https://browser.geekbench.com/v6/cpu/9222834
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Dec 03, 2024",Windows,2210.0,10995.0,https://browser.geekbench.com/v6/cpu/9210482
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,400,4,"Nov 29, 2024",Windows,1527.0,5115.0,https://browser.geekbench.com/v6/cpu/9129701
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 29, 2024",Windows,2264.0,11142.0,https://browser.geekbench.com/v6/cpu/9129558
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 28, 2024",Windows,2272.0,11070.0,https://browser.geekbench.com/v6/cpu/9110543
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 27, 2024",Windows,2273.0,11160.0,https://browser.geekbench.com/v6/cpu/9094475
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 26, 2024",Windows,2254.0,11146.0,https://browser.geekbench.com/v6/cpu/9076369
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 25, 2024",Windows,2230.0,11211.0,https://browser.geekbench.com/v6/cpu/9058319
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Nov 25, 2024",Windows,2130.0,9411.0,https://browser.geekbench.com/v6/cpu/9056870
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 25, 2024",Windows,2202.0,11087.0,https://browser.geekbench.com/v6/cpu/9056266
+HP HP EliteBook 1040 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Nov 25, 2024",Windows,1536.0,9386.0,https://browser.geekbench.com/v6/cpu/9056159
+LENOVO 21KWCTO1WW,Intel Core Ultra 5 135H,4600,14,"Nov 24, 2024",Linux,2263.0,11185.0,https://browser.geekbench.com/v6/cpu/9047415
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Nov 22, 2024",Windows,2028.0,11151.0,https://browser.geekbench.com/v6/cpu/9002934
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 21, 2024",Windows,2280.0,11212.0,https://browser.geekbench.com/v6/cpu/8977900
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"Nov 20, 2024",Windows,2258.0,11424.0,https://browser.geekbench.com/v6/cpu/8964894
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,398,14,"Nov 16, 2024",Windows,2309.0,9642.0,https://browser.geekbench.com/v6/cpu/8860312
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Nov 13, 2024",Windows,2145.0,9837.0,https://browser.geekbench.com/v6/cpu/8824531
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 13, 2024",Windows,2255.0,11126.0,https://browser.geekbench.com/v6/cpu/8811387
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 12, 2024",Windows,2277.0,9389.0,https://browser.geekbench.com/v6/cpu/8794569
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3148,14,"Nov 12, 2024",Windows,2337.0,10311.0,https://browser.geekbench.com/v6/cpu/8788398
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Nov 11, 2024",Windows,1278.0,7912.0,https://browser.geekbench.com/v6/cpu/8783464
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Nov 11, 2024",Windows,1771.0,9216.0,https://browser.geekbench.com/v6/cpu/8783355
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Nov 11, 2024",Windows,2301.0,10757.0,https://browser.geekbench.com/v6/cpu/8782881
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,10,"Nov 11, 2024",Windows,2262.0,7558.0,https://browser.geekbench.com/v6/cpu/8782695
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,10,"Nov 11, 2024",Windows,1531.0,7739.0,https://browser.geekbench.com/v6/cpu/8782551
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Nov 11, 2024",Windows,2344.0,11640.0,https://browser.geekbench.com/v6/cpu/8776632
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,399,14,"Nov 08, 2024",Windows,1308.0,7223.0,https://browser.geekbench.com/v6/cpu/8714521
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 08, 2024",Windows,2275.0,9210.0,https://browser.geekbench.com/v6/cpu/8713211
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 07, 2024",Windows,2087.0,8914.0,https://browser.geekbench.com/v6/cpu/8697685
+SU MTB52,Intel Core Ultra 5 135H,1700,14,"Nov 07, 2024",Windows,2233.0,9112.0,https://browser.geekbench.com/v6/cpu/8692449
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Nov 02, 2024",Windows,1988.0,8864.0,https://browser.geekbench.com/v6/cpu/8619375
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Nov 01, 2024",Windows,1916.0,8409.0,https://browser.geekbench.com/v6/cpu/8604547
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Nov 01, 2024",Windows,2274.0,10508.0,https://browser.geekbench.com/v6/cpu/8602195
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Oct 31, 2024",Windows,2228.0,10139.0,https://browser.geekbench.com/v6/cpu/8585116
+Dell Inc. Latitude 7650,Intel Core Ultra 5 135H,3600,14,"Oct 31, 2024",Windows,2244.0,10161.0,https://browser.geekbench.com/v6/cpu/8583173
+"Panasonic Connect Co., Ltd. FZ40-2",Intel Core Ultra 5 135H,3600,14,"Oct 30, 2024",Windows,2054.0,9472.0,https://browser.geekbench.com/v6/cpu/8570680
+"Panasonic Connect Co., Ltd. FZ40-2",Intel Core Ultra 5 135H,3600,14,"Oct 30, 2024",Windows,2115.0,9885.0,https://browser.geekbench.com/v6/cpu/8570626
+"Panasonic Connect Co., Ltd. FZ40-2",Intel Core Ultra 5 135H,3600,14,"Oct 30, 2024",Windows,2136.0,9052.0,https://browser.geekbench.com/v6/cpu/8570508
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,1642.0,5744.0,https://browser.geekbench.com/v6/cpu/8480499
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,1641.0,6896.0,https://browser.geekbench.com/v6/cpu/8480419
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,1597.0,9376.0,https://browser.geekbench.com/v6/cpu/8480336
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,1639.0,6918.0,https://browser.geekbench.com/v6/cpu/8480163
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,2227.0,10705.0,https://browser.geekbench.com/v6/cpu/8480060
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,2246.0,6710.0,https://browser.geekbench.com/v6/cpu/8479987
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,2257.0,9091.0,https://browser.geekbench.com/v6/cpu/8479894
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 25, 2024",Windows,2220.0,11015.0,https://browser.geekbench.com/v6/cpu/8479758
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Oct 24, 2024",Windows,993.0,4830.0,https://browser.geekbench.com/v6/cpu/8467352
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Oct 24, 2024",Windows,1845.0,10656.0,https://browser.geekbench.com/v6/cpu/8466748
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Oct 24, 2024",Windows,1787.0,10199.0,https://browser.geekbench.com/v6/cpu/8466289
+HP HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC,Intel Core Ultra 5 135H,3191,14,"Oct 23, 2024",Windows,2246.0,10853.0,https://browser.geekbench.com/v6/cpu/8451383
+HP HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC,Intel Core Ultra 5 135H,3191,14,"Oct 23, 2024",Windows,2243.0,11210.0,https://browser.geekbench.com/v6/cpu/8451285
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Oct 22, 2024",Windows,2284.0,11596.0,https://browser.geekbench.com/v6/cpu/8437919
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 22, 2024",Windows,2117.0,9396.0,https://browser.geekbench.com/v6/cpu/8429538
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 21, 2024",Windows,1544.0,6868.0,https://browser.geekbench.com/v6/cpu/8418438
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 21, 2024",Windows,1596.0,9177.0,https://browser.geekbench.com/v6/cpu/8418366
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3192,14,"Oct 20, 2024",Windows,2289.0,10542.0,https://browser.geekbench.com/v6/cpu/8404762
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Oct 20, 2024",Windows,2350.0,10396.0,https://browser.geekbench.com/v6/cpu/8400672
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Oct 20, 2024",Windows,2279.0,9840.0,https://browser.geekbench.com/v6/cpu/8400602
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3192,14,"Oct 20, 2024",Windows,2287.0,9787.0,https://browser.geekbench.com/v6/cpu/8400527
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3193,14,"Oct 20, 2024",Windows,2251.0,10023.0,https://browser.geekbench.com/v6/cpu/8400313
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3207,14,"Oct 20, 2024",Windows,2298.0,9977.0,https://browser.geekbench.com/v6/cpu/8400196
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3180,14,"Oct 20, 2024",Windows,2264.0,10465.0,https://browser.geekbench.com/v6/cpu/8399992
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 20, 2024",Windows,2268.0,10286.0,https://browser.geekbench.com/v6/cpu/8399804
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3192,14,"Oct 20, 2024",Windows,2257.0,10452.0,https://browser.geekbench.com/v6/cpu/8399706
+HP HP ZBook Firefly 16 inch G11 Mobile Workstation PC,Intel Core Ultra 5 135H,1700,14,"Oct 18, 2024",Windows,2111.0,10849.0,https://browser.geekbench.com/v6/cpu/8372386
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 18, 2024",Windows,2249.0,10264.0,https://browser.geekbench.com/v6/cpu/8370518
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Oct 17, 2024",Windows,1227.0,7493.0,https://browser.geekbench.com/v6/cpu/8357668
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 15, 2024",Windows,2113.0,10000.0,https://browser.geekbench.com/v6/cpu/8327126
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Oct 15, 2024",Windows,2031.0,8889.0,https://browser.geekbench.com/v6/cpu/8315055
+ASUSTeK COMPUTER INC. NUC14RVK,Intel Core Ultra 5 135H,3600,14,"Oct 10, 2024",Windows,2137.0,10426.0,https://browser.geekbench.com/v6/cpu/8249533
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 10, 2024",Windows,2202.0,9514.0,https://browser.geekbench.com/v6/cpu/8243779
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 10, 2024",Windows,2209.0,8919.0,https://browser.geekbench.com/v6/cpu/8243704
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 09, 2024",Windows,2262.0,9876.0,https://browser.geekbench.com/v6/cpu/8228071
+"Panasonic Connect Co., Ltd. FZ40-2",Intel Core Ultra 5 135H,4600,14,"Oct 08, 2024",Linux,2325.0,9429.0,https://browser.geekbench.com/v6/cpu/8213316
+HP HP EliteBook 860 16 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Oct 08, 2024",Windows,1972.0,9992.0,https://browser.geekbench.com/v6/cpu/8211989
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 08, 2024",Windows,2208.0,9742.0,https://browser.geekbench.com/v6/cpu/8202770
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 08, 2024",Windows,2044.0,8665.0,https://browser.geekbench.com/v6/cpu/8202700
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 07, 2024",Windows,2134.0,9062.0,https://browser.geekbench.com/v6/cpu/8179779
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 05, 2024",Windows,2100.0,9131.0,https://browser.geekbench.com/v6/cpu/8146622
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Oct 04, 2024",Windows,2215.0,10859.0,https://browser.geekbench.com/v6/cpu/8129736
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Oct 02, 2024",Windows,2156.0,9079.0,https://browser.geekbench.com/v6/cpu/8091859
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 30, 2024",Windows,1341.0,8724.0,https://browser.geekbench.com/v6/cpu/8054576
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 30, 2024",Windows,1383.0,7909.0,https://browser.geekbench.com/v6/cpu/8054461
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 28, 2024",Windows,2174.0,9552.0,https://browser.geekbench.com/v6/cpu/8020234
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 25, 2024",Windows,1149.0,5319.0,https://browser.geekbench.com/v6/cpu/7978256
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Sep 24, 2024",Windows,2027.0,9047.0,https://browser.geekbench.com/v6/cpu/7960152
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Sep 20, 2024",Windows,1991.0,8702.0,https://browser.geekbench.com/v6/cpu/7882287
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Sep 20, 2024",Windows,2219.0,9553.0,https://browser.geekbench.com/v6/cpu/7867811
+HP HP EliteBook 840 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,3202,14,"Sep 19, 2024",Windows,2222.0,10139.0,https://browser.geekbench.com/v6/cpu/7852919
+HP HP EliteBook 840 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,3202,14,"Sep 19, 2024",Windows,2288.0,10109.0,https://browser.geekbench.com/v6/cpu/7852566
+HP HP EliteBook 840 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,3202,14,"Sep 19, 2024",Windows,2242.0,10151.0,https://browser.geekbench.com/v6/cpu/7852451
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"Sep 13, 2024",Windows,2290.0,11155.0,https://browser.geekbench.com/v6/cpu/7756945
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 13, 2024",Windows,2285.0,9962.0,https://browser.geekbench.com/v6/cpu/7742572
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 13, 2024",Windows,2286.0,9996.0,https://browser.geekbench.com/v6/cpu/7742489
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 13, 2024",Windows,2258.0,9555.0,https://browser.geekbench.com/v6/cpu/7742372
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Sep 12, 2024",Windows,2229.0,10430.0,https://browser.geekbench.com/v6/cpu/7741037
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"Sep 12, 2024",Windows,2275.0,10769.0,https://browser.geekbench.com/v6/cpu/7735637
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Sep 11, 2024",Windows,2302.0,11832.0,https://browser.geekbench.com/v6/cpu/7722741
+HP HP EliteBook 640 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Sep 11, 2024",Windows,2266.0,9855.0,https://browser.geekbench.com/v6/cpu/7719060
+HP HP EliteBook 660 16 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Sep 09, 2024",Windows,977.0,7187.0,https://browser.geekbench.com/v6/cpu/7690817
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 08, 2024",Windows,2209.0,9735.0,https://browser.geekbench.com/v6/cpu/7675770
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Sep 08, 2024",Windows,1630.0,8631.0,https://browser.geekbench.com/v6/cpu/7675727
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Aug 28, 2024",Windows,2052.0,8475.0,https://browser.geekbench.com/v6/cpu/7526343
+HP HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Aug 26, 2024",Windows,2284.0,11700.0,https://browser.geekbench.com/v6/cpu/7502612
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Aug 20, 2024",Windows,2001.0,9086.0,https://browser.geekbench.com/v6/cpu/7415617
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Aug 18, 2024",Windows,2130.0,9904.0,https://browser.geekbench.com/v6/cpu/7386169
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Aug 18, 2024",Windows,2122.0,9415.0,https://browser.geekbench.com/v6/cpu/7386121
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Aug 18, 2024",Windows,2283.0,10387.0,https://browser.geekbench.com/v6/cpu/7382793
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Aug 16, 2024",Windows,2288.0,9108.0,https://browser.geekbench.com/v6/cpu/7357941
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Aug 13, 2024",Windows,1822.0,8784.0,https://browser.geekbench.com/v6/cpu/7315916
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Aug 13, 2024",Windows,1850.0,8349.0,https://browser.geekbench.com/v6/cpu/7315836
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Aug 06, 2024",Windows,2041.0,8248.0,https://browser.geekbench.com/v6/cpu/7215857
+LENOVO 21MQZBX2US,Intel Core Ultra 5 135H,1700,14,"Aug 05, 2024",Windows,2293.0,7837.0,https://browser.geekbench.com/v6/cpu/7201364
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3193,14,"Aug 04, 2024",Windows,2256.0,10900.0,https://browser.geekbench.com/v6/cpu/7185212
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Aug 02, 2024",Windows,2225.0,9817.0,https://browser.geekbench.com/v6/cpu/7169008
+HP Elite x360 1040 14 inch G11 ME SOE 24.14,Intel Core Ultra 5 135H,3198,14,"Aug 01, 2024",Windows,1795.0,9894.0,https://browser.geekbench.com/v6/cpu/7156272
+HP Elite x360 1040 14 inch G11 ME SOE 22.14,Intel Core Ultra 5 135H,3198,14,"Aug 01, 2024",Windows,1610.0,8773.0,https://browser.geekbench.com/v6/cpu/7156225
+HP Elite x360 1040 14 inch G11 Stock Win 11,Intel Core Ultra 5 135H,1700,14,"Aug 01, 2024",Windows,2290.0,11203.0,https://browser.geekbench.com/v6/cpu/7144943
+HP HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Aug 01, 2024",Windows,2162.0,10361.0,https://browser.geekbench.com/v6/cpu/7144477
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 29, 2024",Windows,2195.0,10707.0,https://browser.geekbench.com/v6/cpu/7108396
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 28, 2024",Windows,2254.0,10395.0,https://browser.geekbench.com/v6/cpu/7100280
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 28, 2024",Windows,1641.0,6737.0,https://browser.geekbench.com/v6/cpu/7100244
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 28, 2024",Windows,1548.0,6729.0,https://browser.geekbench.com/v6/cpu/7095348
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 26, 2024",Windows,2315.0,11586.0,https://browser.geekbench.com/v6/cpu/7062012
+Dynabook Inc. TECRA A60-M,Intel Core Ultra 5 135H,1700,14,"Jul 25, 2024",Windows,2219.0,10347.0,https://browser.geekbench.com/v6/cpu/7052948
+Dynabook Inc. TECRA A60-M,Intel Core Ultra 5 135H,1700,14,"Jul 22, 2024",Windows,2200.0,10344.0,https://browser.geekbench.com/v6/cpu/7010394
+Dynabook Inc. TECRA A60-M,Intel Core Ultra 5 135H,1700,14,"Jul 22, 2024",Windows,2205.0,10299.0,https://browser.geekbench.com/v6/cpu/7009602
+Dynabook Inc. TECRA A60-M,Intel Core Ultra 5 135H,1700,14,"Jul 22, 2024",Windows,2206.0,10316.0,https://browser.geekbench.com/v6/cpu/7008944
+Dynabook Inc. TECRA A60-M,Intel Core Ultra 5 135H,1700,14,"Jul 19, 2024",Windows,2225.0,9093.0,https://browser.geekbench.com/v6/cpu/6973923
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 19, 2024",Windows,2279.0,10307.0,https://browser.geekbench.com/v6/cpu/6971395
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 19, 2024",Windows,2225.0,10182.0,https://browser.geekbench.com/v6/cpu/6969133
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Jul 18, 2024",Windows,2270.0,11248.0,https://browser.geekbench.com/v6/cpu/6966469
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Jul 18, 2024",Windows,2271.0,10865.0,https://browser.geekbench.com/v6/cpu/6966398
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 18, 2024",Windows,2277.0,10081.0,https://browser.geekbench.com/v6/cpu/6956856
+HP HP EliteBook 1040 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Jul 17, 2024",Windows,2297.0,11868.0,https://browser.geekbench.com/v6/cpu/6953914
+HP HP EliteBook 1040 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Jul 17, 2024",Windows,2247.0,11757.0,https://browser.geekbench.com/v6/cpu/6953913
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 17, 2024",Windows,2336.0,12119.0,https://browser.geekbench.com/v6/cpu/6953912
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 17, 2024",Windows,2175.0,10003.0,https://browser.geekbench.com/v6/cpu/6950109
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"Jul 15, 2024",Windows,2318.0,11791.0,https://browser.geekbench.com/v6/cpu/6924163
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 11, 2024",Windows,2288.0,9914.0,https://browser.geekbench.com/v6/cpu/6875855
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Jul 11, 2024",Windows,2232.0,9728.0,https://browser.geekbench.com/v6/cpu/6875797
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2073.0,8572.0,https://browser.geekbench.com/v6/cpu/6830356
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2058.0,8695.0,https://browser.geekbench.com/v6/cpu/6830266
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,1981.0,8878.0,https://browser.geekbench.com/v6/cpu/6830161
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2068.0,9304.0,https://browser.geekbench.com/v6/cpu/6830107
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2019.0,9449.0,https://browser.geekbench.com/v6/cpu/6830011
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,1394.0,7601.0,https://browser.geekbench.com/v6/cpu/6828621
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2312.0,8040.0,https://browser.geekbench.com/v6/cpu/6828454
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2298.0,11395.0,https://browser.geekbench.com/v6/cpu/6828314
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 08, 2024",Windows,2358.0,11686.0,https://browser.geekbench.com/v6/cpu/6828087
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 06, 2024",Windows,2301.0,8171.0,https://browser.geekbench.com/v6/cpu/6805840
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 06, 2024",Windows,2300.0,11602.0,https://browser.geekbench.com/v6/cpu/6805781
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 06, 2024",Windows,2346.0,11688.0,https://browser.geekbench.com/v6/cpu/6805647
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 06, 2024",Windows,2204.0,11743.0,https://browser.geekbench.com/v6/cpu/6805574
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 06, 2024",Windows,2076.0,9282.0,https://browser.geekbench.com/v6/cpu/6805503
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 05, 2024",Windows,1301.0,7568.0,https://browser.geekbench.com/v6/cpu/6791617
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 05, 2024",Windows,2252.0,7875.0,https://browser.geekbench.com/v6/cpu/6791558
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 05, 2024",Windows,2276.0,11688.0,https://browser.geekbench.com/v6/cpu/6791492
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 05, 2024",Windows,2309.0,11670.0,https://browser.geekbench.com/v6/cpu/6791448
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 05, 2024",Windows,2259.0,11054.0,https://browser.geekbench.com/v6/cpu/6791224
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 04, 2024",Windows,2134.0,11011.0,https://browser.geekbench.com/v6/cpu/6778426
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 04, 2024",Windows,1512.0,4622.0,https://browser.geekbench.com/v6/cpu/6777070
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 04, 2024",Windows,1798.0,5755.0,https://browser.geekbench.com/v6/cpu/6776963
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jul 03, 2024",Windows,1400.0,6377.0,https://browser.geekbench.com/v6/cpu/6767209
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Jul 02, 2024",Windows,2172.0,10443.0,https://browser.geekbench.com/v6/cpu/6759701
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,2312.0,10066.0,https://browser.geekbench.com/v6/cpu/6759448
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,1841.0,9249.0,https://browser.geekbench.com/v6/cpu/6759401
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,1756.0,9247.0,https://browser.geekbench.com/v6/cpu/6759329
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,2260.0,9810.0,https://browser.geekbench.com/v6/cpu/6759263
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,2321.0,9623.0,https://browser.geekbench.com/v6/cpu/6758711
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jul 02, 2024",Windows,2369.0,10007.0,https://browser.geekbench.com/v6/cpu/6758647
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Jun 29, 2024",Windows,2271.0,10503.0,https://browser.geekbench.com/v6/cpu/6722516
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Jun 29, 2024",Windows,2249.0,10327.0,https://browser.geekbench.com/v6/cpu/6722469
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 26, 2024",Windows,2056.0,9064.0,https://browser.geekbench.com/v6/cpu/6682512
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 26, 2024",Windows,2025.0,8750.0,https://browser.geekbench.com/v6/cpu/6682280
+Dell Inc. Precision 5690,Intel Core Ultra 5 135H,3600,14,"Jun 24, 2024",Windows,2276.0,11715.0,https://browser.geekbench.com/v6/cpu/6654318
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 21, 2024",Windows,2312.0,12066.0,https://browser.geekbench.com/v6/cpu/6612871
+HP HP EliteBook 1040 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Jun 21, 2024",Windows,2290.0,11795.0,https://browser.geekbench.com/v6/cpu/6612868
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 21, 2024",Windows,2280.0,11360.0,https://browser.geekbench.com/v6/cpu/6612783
+HP HP EliteBook 1040 14 inch G11 Notebook PC,Intel Core Ultra 5 135H,1700,14,"Jun 21, 2024",Windows,2174.0,11056.0,https://browser.geekbench.com/v6/cpu/6612760
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,1988.0,9303.0,https://browser.geekbench.com/v6/cpu/6561281
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,2017.0,9308.0,https://browser.geekbench.com/v6/cpu/6561191
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,2063.0,8976.0,https://browser.geekbench.com/v6/cpu/6561104
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,2009.0,8892.0,https://browser.geekbench.com/v6/cpu/6560826
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,1995.0,8735.0,https://browser.geekbench.com/v6/cpu/6560467
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 18, 2024",Windows,1949.0,9119.0,https://browser.geekbench.com/v6/cpu/6560321
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,1900.0,9232.0,https://browser.geekbench.com/v6/cpu/6558331
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,1770.0,9291.0,https://browser.geekbench.com/v6/cpu/6558289
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,1863.0,9134.0,https://browser.geekbench.com/v6/cpu/6558238
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,1652.0,9405.0,https://browser.geekbench.com/v6/cpu/6558167
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,2217.0,9458.0,https://browser.geekbench.com/v6/cpu/6558098
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,1521.0,9206.0,https://browser.geekbench.com/v6/cpu/6558052
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 17, 2024",Windows,2224.0,9221.0,https://browser.geekbench.com/v6/cpu/6557988
+LENOVO 21ML004XUK,Intel Core Ultra 5 135H,1700,14,"Jun 13, 2024",Windows,1363.0,8957.0,https://browser.geekbench.com/v6/cpu/6501102
+LENOVO 21ML004XUK,Intel Core Ultra 5 135H,1700,14,"Jun 12, 2024",Windows,2220.0,11212.0,https://browser.geekbench.com/v6/cpu/6486265
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Jun 10, 2024",Windows,1985.0,8639.0,https://browser.geekbench.com/v6/cpu/6460408
+LENOVO 21ML004XUK,Intel Core Ultra 5 135H,1700,14,"Jun 05, 2024",Windows,2310.0,11193.0,https://browser.geekbench.com/v6/cpu/6394414
+Default string Default string,Intel Core Ultra 5 135H,3600,14,"Jun 04, 2024",Windows,1079.0,5936.0,https://browser.geekbench.com/v6/cpu/6386768
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 04, 2024",Windows,2257.0,9921.0,https://browser.geekbench.com/v6/cpu/6386141
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 04, 2024",Windows,2238.0,9925.0,https://browser.geekbench.com/v6/cpu/6385880
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 04, 2024",Windows,2146.0,8235.0,https://browser.geekbench.com/v6/cpu/6385831
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 04, 2024",Windows,2260.0,9715.0,https://browser.geekbench.com/v6/cpu/6385604
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 03, 2024",Windows,2033.0,9442.0,https://browser.geekbench.com/v6/cpu/6376283
+Dell Inc. Precision 3490,Intel Core Ultra 5 135H,3600,14,"Jun 03, 2024",Windows,2320.0,10096.0,https://browser.geekbench.com/v6/cpu/6375508
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 31, 2024",Windows,2278.0,10532.0,https://browser.geekbench.com/v6/cpu/6337503
+HP HP ZBook Firefly 16 inch G11 Mobile Workstation PC,Intel Core Ultra 5 135H,1700,14,"May 29, 2024",Windows,2165.0,10701.0,https://browser.geekbench.com/v6/cpu/6314122
+HP HP ZBook Firefly 16 inch G11 Mobile Workstation PC,Intel Core Ultra 5 135H,1700,14,"May 29, 2024",Windows,2242.0,11164.0,https://browser.geekbench.com/v6/cpu/6313817
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3182,14,"May 28, 2024",Windows,2279.0,10839.0,https://browser.geekbench.com/v6/cpu/6300642
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 27, 2024",Windows,1932.0,8407.0,https://browser.geekbench.com/v6/cpu/6281862
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 25, 2024",Windows,2254.0,10486.0,https://browser.geekbench.com/v6/cpu/6251199
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 25, 2024",Windows,2267.0,10215.0,https://browser.geekbench.com/v6/cpu/6251150
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 25, 2024",Windows,2258.0,10312.0,https://browser.geekbench.com/v6/cpu/6251074
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 22, 2024",Windows,2022.0,8823.0,https://browser.geekbench.com/v6/cpu/6220962
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 22, 2024",Windows,2021.0,8811.0,https://browser.geekbench.com/v6/cpu/6220903
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 22, 2024",Windows,2017.0,9052.0,https://browser.geekbench.com/v6/cpu/6220840
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 21, 2024",Windows,2346.0,10365.0,https://browser.geekbench.com/v6/cpu/6197687
+LENOVO 21ML004XUK,Intel Core Ultra 5 135H,1700,14,"May 20, 2024",Windows,2294.0,11194.0,https://browser.geekbench.com/v6/cpu/6186617
+LENOVO 21ML004XUK,Intel Core Ultra 5 135H,1700,14,"May 20, 2024",Windows,1266.0,7000.0,https://browser.geekbench.com/v6/cpu/6185793
+"Micro-Star International Co., Ltd. Prestige 13 AI Evo A1MG",Intel Core Ultra 5 135H,3600,14,"May 20, 2024",Windows,2250.0,10165.0,https://browser.geekbench.com/v6/cpu/6182918
+"Micro-Star International Co., Ltd. Prestige 13 AI Evo A1MG",Intel Core Ultra 5 135H,3600,14,"May 20, 2024",Windows,2254.0,10182.0,https://browser.geekbench.com/v6/cpu/6182868
+"Micro-Star International Co., Ltd. Prestige 13 AI Evo A1MG",Intel Core Ultra 5 135H,3600,14,"May 20, 2024",Windows,2271.0,10281.0,https://browser.geekbench.com/v6/cpu/6182760
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2088.0,9153.0,https://browser.geekbench.com/v6/cpu/6140094
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2044.0,9430.0,https://browser.geekbench.com/v6/cpu/6140005
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2069.0,9127.0,https://browser.geekbench.com/v6/cpu/6139930
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2071.0,9113.0,https://browser.geekbench.com/v6/cpu/6139815
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2076.0,9400.0,https://browser.geekbench.com/v6/cpu/6139757
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 17, 2024",Windows,2080.0,8962.0,https://browser.geekbench.com/v6/cpu/6138819
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 16, 2024",Windows,2351.0,11768.0,https://browser.geekbench.com/v6/cpu/6132919
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 16, 2024",Windows,2031.0,8833.0,https://browser.geekbench.com/v6/cpu/6132763
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 16, 2024",Windows,2291.0,11512.0,https://browser.geekbench.com/v6/cpu/6132617
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,1700,14,"May 16, 2024",Windows,2301.0,11184.0,https://browser.geekbench.com/v6/cpu/6130762
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 15, 2024",Windows,1337.0,7751.0,https://browser.geekbench.com/v6/cpu/6107862
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 14, 2024",Windows,1315.0,7681.0,https://browser.geekbench.com/v6/cpu/6101360
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 13, 2024",Windows,2015.0,8622.0,https://browser.geekbench.com/v6/cpu/6078765
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 13, 2024",Windows,1147.0,7110.0,https://browser.geekbench.com/v6/cpu/6077749
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"May 09, 2024",Windows,2091.0,9866.0,https://browser.geekbench.com/v6/cpu/6018741
+Dell Inc. Precision 3590,Intel Core Ultra 5 135H,1700,14,"May 06, 2024",Windows,2097.0,8652.0,https://browser.geekbench.com/v6/cpu/5983654
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 05, 2024",Windows,2044.0,8806.0,https://browser.geekbench.com/v6/cpu/5979502
+Dell Inc. Latitude 5450 (SNPS),Intel Core Ultra 5 135H,3600,14,"May 02, 2024",Windows,2276.0,11501.0,https://browser.geekbench.com/v6/cpu/5941397
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"May 02, 2024",Windows,2281.0,11528.0,https://browser.geekbench.com/v6/cpu/5941289
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"May 02, 2024",Windows,2254.0,11425.0,https://browser.geekbench.com/v6/cpu/5941075
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"May 02, 2024",Windows,2090.0,10974.0,https://browser.geekbench.com/v6/cpu/5938454
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"May 01, 2024",Windows,2321.0,11671.0,https://browser.geekbench.com/v6/cpu/5928964
+Dell Inc. Latitude 5450(nonSNPS),Intel Core Ultra 5 135H,3600,14,"May 01, 2024",Windows,2321.0,11456.0,https://browser.geekbench.com/v6/cpu/5928905
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"May 01, 2024",Windows,2334.0,11332.0,https://browser.geekbench.com/v6/cpu/5928737
+Dell Inc. Latitude 5450,Intel Core Ultra 5 135H,3600,14,"May 01, 2024",Windows,2334.0,11332.0,https://browser.geekbench.com/v6/cpu/5928724
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Apr 29, 2024",Windows,1193.0,7042.0,https://browser.geekbench.com/v6/cpu/5907247
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3193,14,"Apr 25, 2024",Windows,2345.0,11902.0,https://browser.geekbench.com/v6/cpu/5858037
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3193,14,"Apr 25, 2024",Windows,2328.0,11891.0,https://browser.geekbench.com/v6/cpu/5857981
+Dell Inc. Precision 3591,Intel Core Ultra 5 135H,3192,14,"Apr 25, 2024",Windows,2333.0,10403.0,https://browser.geekbench.com/v6/cpu/5855305
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3192,14,"Apr 25, 2024",Windows,2400.0,11731.0,https://browser.geekbench.com/v6/cpu/5850631
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Apr 22, 2024",Windows,2024.0,8809.0,https://browser.geekbench.com/v6/cpu/5816185
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Apr 18, 2024",Windows,2121.0,9875.0,https://browser.geekbench.com/v6/cpu/5766133
+Default string Default string,Intel Core Ultra 5 135H,3193,14,"Apr 17, 2024",Windows,1993.0,6276.0,https://browser.geekbench.com/v6/cpu/5751839
+Microsoft Corporation Surface Laptop 6 for Business,Intel Core Ultra 5 135H,3600,14,"Apr 17, 2024",Windows,1902.0,5343.0,https://browser.geekbench.com/v6/cpu/5749036
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Apr 08, 2024",Windows,2199.0,9959.0,https://browser.geekbench.com/v6/cpu/5646889
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Apr 08, 2024",Windows,2230.0,10189.0,https://browser.geekbench.com/v6/cpu/5646838
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Apr 08, 2024",Windows,2215.0,10092.0,https://browser.geekbench.com/v6/cpu/5646709
+Dell Inc. Latitude 7450,Intel Core Ultra 5 135H,3600,14,"Apr 08, 2024",Windows,2217.0,10211.0,https://browser.geekbench.com/v6/cpu/5646168
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1721.0,9268.0,https://browser.geekbench.com/v6/cpu/5533738
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,2282.0,10965.0,https://browser.geekbench.com/v6/cpu/5533646
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1659.0,9429.0,https://browser.geekbench.com/v6/cpu/5533589
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1665.0,9419.0,https://browser.geekbench.com/v6/cpu/5533510
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1680.0,9507.0,https://browser.geekbench.com/v6/cpu/5533413
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1689.0,9091.0,https://browser.geekbench.com/v6/cpu/5533333
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,2288.0,9333.0,https://browser.geekbench.com/v6/cpu/5533233
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 30, 2024",Windows,1697.0,9103.0,https://browser.geekbench.com/v6/cpu/5533178
+Dell Inc. Latitude 5550,Intel Core Ultra 5 135H,1700,14,"Mar 29, 2024",Windows,2301.0,11343.0,https://browser.geekbench.com/v6/cpu/5519592
+LENOVO INVALID,Intel Core Ultra 5 135H,1700,14,"Mar 20, 2024",Windows,1409.0,9058.0,https://browser.geekbench.com/v6/cpu/5385747
+LENOVO INVALID,Intel Core Ultra 5 135H,1700,14,"Mar 20, 2024",Windows,1946.0,8738.0,https://browser.geekbench.com/v6/cpu/5385658
+LENOVO INVALID,Intel Core Ultra 5 135H,1700,14,"Mar 20, 2024",Windows,1881.0,9201.0,https://browser.geekbench.com/v6/cpu/5385566
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 16, 2024",Windows,2278.0,10137.0,https://browser.geekbench.com/v6/cpu/5332994
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 16, 2024",Windows,2283.0,10052.0,https://browser.geekbench.com/v6/cpu/5332941
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 16, 2024",Windows,2271.0,7058.0,https://browser.geekbench.com/v6/cpu/5332889
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 16, 2024",Windows,2271.0,10988.0,https://browser.geekbench.com/v6/cpu/5332801
+"Micro-Star International Co., Ltd. Claw A1M",Intel Core Ultra 5 135H,3600,14,"Mar 15, 2024",Windows,2270.0,10728.0,https://browser.geekbench.com/v6/cpu/5327426
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Mar 13, 2024",Windows,2216.0,10624.0,https://browser.geekbench.com/v6/cpu/5302359
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Mar 13, 2024",Windows,2066.0,7752.0,https://browser.geekbench.com/v6/cpu/5302283
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Mar 13, 2024",Windows,1939.0,5867.0,https://browser.geekbench.com/v6/cpu/5302142
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Feb 10, 2024",Windows,2140.0,10098.0,https://browser.geekbench.com/v6/cpu/4843350
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,2090.0,7871.0,https://browser.geekbench.com/v6/cpu/4673950
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,2141.0,8016.0,https://browser.geekbench.com/v6/cpu/4673680
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,2272.0,11144.0,https://browser.geekbench.com/v6/cpu/4673125
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,1541.0,5577.0,https://browser.geekbench.com/v6/cpu/4672062
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,1562.0,5005.0,https://browser.geekbench.com/v6/cpu/4671924
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 30, 2024",Windows,2070.0,6153.0,https://browser.geekbench.com/v6/cpu/4671767
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 28, 2024",Windows,2293.0,10940.0,https://browser.geekbench.com/v6/cpu/4636989
+ONE-NETBOOK ONEXPLAYER X1 i,Intel Core Ultra 5 135H,3600,14,"Jan 28, 2024",Windows,890.0,6889.0,https://browser.geekbench.com/v6/cpu/4636884
+Default string Default string,Intel Core Ultra 5 135H,3600,14,"Jan 11, 2024",Windows,2339.0,11791.0,https://browser.geekbench.com/v6/cpu/4344368
+1234 1234,Intel Core Ultra 5 135H,3600,14,"Jan 09, 2024",Windows,2058.0,9487.0,https://browser.geekbench.com/v6/cpu/4320021
