@@ -1,18 +1,32 @@
-Name,Launch date,Cores,Age,Architecture,GB6 Single,GB6 Multi,Designer,Win11
-Intel Core i5-6200U,2015-07-01,2,9.7,Skylake,916.0,1832.0,Intel,No
-Intel Core i5-6300U,2015-07-01,2,9.7,Skylake,965.0,1910.0,Intel,No
-Intel Core i5-7300U,2017-01-01,2,8.1,Kaby Lake,1088.0,2030.0,Intel,No
-Intel Core i5-8250U,2017-07-01,4,7.6,Kaby Lake R,1145.0,3126.0,Intel,Yes
-Intel Core i5-8350U,2017-07-01,4,7.6,Kaby Lake R,1191.0,3237.0,Intel,Yes
-Intel Core i5-8365U,2019-04-01,4,5.9,Whiskey Lake,1270.0,3167.0,Intel,Yes
-Intel Core i5-9400H,2019-04-01,4,5.9,Coffee Lake,1429.0,4347.0,Intel,Yes
-Intel Core i5-10210U,2019-07-01,4,5.7,Comet Lake,1229.0,3088.0,Intel,Yes
-Intel Core i5-10310U,2020-04-01,4,4.9,Comet Lake,1297.0,3450.0,Intel,Yes
-Intel Core i5-1135G7,2020-07-01,4,4.6,Tiger Lake,1702.0,4694.0,Intel,Yes
-Intel Core i5-1145G7,2021-01-01,4,4.1,Tiger Lake,1766.0,4873.0,Intel,Yes
-Intel Core i5-1245U,2022-01-01,10,3.1,Alder Lake,1964.0,6269.0,Intel,Yes
-Intel Core i5-1335U,2023-01-01,10,2.1,Raptor Lake,2103.0,6786.0,Intel,Yes
-AMD Ryzen 7 PRO 2700U,2017-10-01,4,7.4,Raven Ridge,914.0,2545.0,AMD,No
-AMD Ryzen 5 PRO 3500U,2019-01-01,4,6.1,Picasso,949.0,2620.0,AMD,Yes
-AMD Ryzen 5 PRO 4650U,2020-07-01,6,4.6,Renoir,1421.0,4591.0,AMD,Yes
-AMD Ryzen 5 PRO 5650U,2021-03-01,6,4.0,Cezanne,1740.0,5479.0,AMD,Yes
+Name,Designer,Launch date,Cores,Age,Architecture,GB6 Single,GB6 Multi,Win11,Product URL
+Intel Core i5-5200U,Intel,2015-01-01,2,10.2,Broadwell,854.0,1611.0,No,https://www.intel.com/content/www/us/en/products/sku/85212/intel-core-i55200u-processor-3m-cache-up-to-2-70-ghz/specifications.html
+Intel Core i5-5300U,Intel,2015-01-01,2,10.2,Broadwell,908.0,1692.0,No,https://www.intel.com/content/www/us/en/products/sku/85213/intel-core-i55300u-processor-3m-cache-up-to-2-90-ghz/specifications.html
+Intel Core i5-6200U,Intel,2015-07-01,2,9.7,Skylake,916.0,1832.0,No,https://www.intel.com/content/www/us/en/products/sku/88193/intel-core-i56200u-processor-3m-cache-up-to-2-80-ghz/specifications.html
+Intel Core i5-6300U,Intel,2015-07-01,2,9.7,Skylake,965.0,1910.0,No,https://www.intel.com/content/www/us/en/products/sku/88190/intel-core-i56300u-processor-3m-cache-up-to-3-00-ghz/specifications.html
+Intel Core i5-7200U,Intel,2016-10-01,2,8.5,Kaby Lake,1009.0,1987.0,No,https://www.intel.com/content/www/us/en/products/sku/95443/intel-core-i57200u-processor-3m-cache-up-to-3-10-ghz/specifications.html
+Intel Core i5-7300U,Intel,2017-01-01,2,8.2,Kaby Lake,1088.0,2030.0,No,https://www.intel.com/content/www/us/en/products/sku/97472/intel-core-i57300u-processor-3m-cache-up-to-3-50-ghz/specifications.html
+Intel Core i5-8250U,Intel,2017-07-01,4,7.7,Kaby Lake R,1145.0,3126.0,Yes,https://www.intel.com/content/www/us/en/products/sku/124967/intel-core-i58250u-processor-6m-cache-up-to-3-40-ghz/specifications.html
+Intel Core i5-8350U,Intel,2017-07-01,4,7.7,Kaby Lake R,1191.0,3237.0,Yes,https://www.intel.com/content/www/us/en/products/sku/124969/intel-core-i58350u-processor-6m-cache-up-to-3-60-ghz/specifications.html
+Intel Core i5-8365U,Intel,2019-04-01,4,6.0,Whiskey Lake,1270.0,3167.0,Yes,https://www.intel.com/content/www/us/en/products/sku/193555/intel-core-i58365u-processor-6m-cache-up-to-4-10-ghz/specifications.html
+Intel Core i5-9400H,Intel,2019-04-01,4,6.0,Coffee Lake,1429.0,4347.0,Yes,https://www.intel.com/content/www/us/en/products/sku/191078/intel-core-i59400h-processor-8m-cache-up-to-4-30-ghz/specifications.html
+Intel Core i5-10210U,Intel,2019-07-01,4,5.7,Comet Lake,1229.0,3088.0,Yes,https://www.intel.com/content/www/us/en/products/sku/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz/specifications.html
+Intel Core i5-10310U,Intel,2020-04-01,4,5.0,Comet Lake,1297.0,3450.0,Yes,https://www.intel.com/content/www/us/en/products/sku/201892/intel-core-i510310u-processor-6m-cache-up-to-4-40-ghz/specifications.html
+Intel Core i5-1035G4,Intel,2019-10-01,4,5.5,Ice Lake,1435.0,3742.0,Yes,https://www.intel.com/content/www/us/en/products/sku/196591/intel-core-i51035g4-processor-6m-cache-up-to-3-70-ghz/specifications.html
+Intel Core i5-1035G7,Intel,2019-10-01,4,5.5,Ice Lake,1419.0,3791.0,Yes,https://www.intel.com/content/www/us/en/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html
+Intel Core i5-1135G7,Intel,2020-07-01,4,4.7,Tiger Lake,1702.0,4694.0,Yes,https://www.intel.com/content/www/us/en/products/sku/208922/intel-core-i51135g7-processor-8m-cache-up-to-4-20-ghz-with-ipu/specifications.html
+Intel Core i5-1145G7,Intel,2021-01-01,4,4.2,Tiger Lake,1766.0,4873.0,Yes,https://www.intel.com/content/www/us/en/products/sku/208660/intel-core-i51145g7-processor-8m-cache-up-to-4-40-ghz-with-ipu/specifications.html
+Intel Core i5-1235U,Intel,2022-01-01,10,3.2,Alder Lake,1950.0,5846.0,Yes,https://www.intel.com/content/www/us/en/products/sku/226261/intel-core-i51235u-processor-12m-cache-up-to-4-40-ghz/specifications.html?wapkw=intel%20core%20i5-1235u
+Intel Core i5-1245U,Intel,2022-01-01,10,3.2,Alder Lake,1964.0,6269.0,Yes,https://www.intel.com/content/www/us/en/products/sku/226260/intel-core-i51245u-processor-12m-cache-up-to-4-40-ghz/specifications.html
+Intel Core i5-1335U,Intel,2023-01-01,10,2.2,Raptor Lake,2103.0,6786.0,Yes,https://www.intel.com/content/www/us/en/products/sku/232153/intel-core-i51335u-processor-12m-cache-up-to-4-60-ghz/specifications.html
+Intel Core i5-1345U,Intel,2023-01-01,10,2.2,Raptor Lake,2202.0,6967.0,Yes,https://www.intel.com/content/www/us/en/products/sku/232127/intel-core-i51345u-processor-12m-cache-up-to-4-70-ghz/specifications.html?wapkw=i5-1345U
+Intel Core Ultra 5 125U,Intel,2023-10-01,12,1.5,Metor Lake,2072.0,8107.0,Yes,https://www.intel.com/content/www/us/en/products/sku/237330/intel-core-ultra-5-processor-125u-12m-cache-up-to-4-30-ghz/specifications.html?wapkw=Intel%20Core%20Ultra%205%20125U
+Intel Core Ultra 5 135U,Intel,2023-10-01,12,1.5,Metor Lake,2132.0,8667.0,Yes,https://www.intel.com/content/www/us/en/products/sku/237328/intel-core-ultra-5-processor-135u-12m-cache-up-to-4-40-ghz/specifications.html?wapkw=Intel%20Core%20Ultra%205%20135U
+Intel Core Ultra 5 125H,Intel,2023-10-01,14,1.5,Metor Lake,2123.0,9320.0,Yes,https://www.intel.com/content/www/us/en/products/sku/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz/specifications.html?wapkw=Intel%20Core%20Ultra%205%20125H
+Intel Core Ultra 5 135H,Intel,2023-10-01,14,1.5,Metor Lake,2207.0,9885.0,Yes,https://www.intel.com/content/www/us/en/products/sku/236850/intel-core-ultra-5-processor-135h-18m-cache-up-to-4-60-ghz/specifications.html?wapkw=Intel%20Core%20Ultra%205%20135H
+AMD Ryzen 7 PRO 2700U,AMD,2017-10-01,4,7.5,Raven Ridge,914.0,2545.0,Yes,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-2000-series/amd-ryzen-7-2700u.html
+AMD Ryzen 5 PRO 3500U,AMD,2019-01-01,4,6.2,Picasso,949.0,2620.0,Yes,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-3000-series/amd-ryzen-5-3500u.html
+AMD Ryzen 5 PRO 4650U,AMD,2020-07-01,6,4.7,Renoir,1421.0,4590.0,Yes,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-4000-series/amd-ryzen-5-pro-4650u.html
+AMD Ryzen 5 PRO 5650U,AMD,2021-03-01,6,4.1,Cezanne,1740.0,5479.0,Yes,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-5000-series/amd-ryzen-5-pro-5650u.html
+AMD Ryzen 5 PRO 6650U,AMD,2022-04-19,6,2.9,Rembrandt,1828.0,6717.0,Yes,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-6000-series/amd-ryzen-5-pro-6650u.html
+AMD Ryzen 5 PRO 7540U,AMD,2023-03-05,6,2.1,Phoenix,2226.0,8076.0,Yes,https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7540u.html
+AMD Ryzen 5 PRO 8540U,AMD,2024-04-01,6,1.0,Hawk Point,2345.0,8081.0,Yes,https://www.amd.com/en/products/processors/laptop/ryzen-pro/8000-series/amd-ryzen-5-pro-8540u.html
