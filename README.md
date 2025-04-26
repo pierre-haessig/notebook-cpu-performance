@@ -50,21 +50,21 @@ The data collection of this project is available in two places:
 
 CPU data pipeline:
 
-1. CPU performance data scraping and aggregation: [Retrieve_geekbench.ipynb](Retrieve_geekbench.ipynb), which access  https://browser.geekbench.com/ → [CPUs_GB6_stats.csv](CPUs_GB6_stats.csv)
-   1. as a bonus create the detailed CPU performance charts, see the [Geekbench 6 plots](Geekbench%206%20plots) folder
-2. Manual copy of performance data to the Baserow [CPUs](https://baserow.io/public/grid/wLq_Mhbx1y8jm7z82Y1GuqrCpNtOCkBqdHHgYqoNP0M) table
-3. Extraction to CSV from public API in [Retrieve_baserow.ipynb](Retrieve_baserow.ipynb) → [CPUs.csv](CPUs.csv)
-4. Plotting in [CPUs_plot.ipynb](CPUs_plot.ipynb) 
+1. 🤖 CPU performance data scraping and aggregation: [Retrieve_geekbench.ipynb](Retrieve_geekbench.ipynb), which accesses the website  https://browser.geekbench.com/ → [CPUs_GB6_stats.csv](CPUs_GB6_stats.csv)
+    - as a bonus create the detailed CPU performance charts, see the [Geekbench 6 plots](Geekbench%206%20plots) folder
+2. ✍️ Manual copy of performance data to the Baserow [CPUs](https://baserow.io/public/grid/wLq_Mhbx1y8jm7z82Y1GuqrCpNtOCkBqdHHgYqoNP0M) table
+3. 📡 Extraction to CSV from public API in [Retrieve_baserow.ipynb](Retrieve_baserow.ipynb) → [CPUs.csv](CPUs.csv)
+4. 📊 Plotting in [CPUs_plot.ipynb](CPUs_plot.ipynb) 
 
 Notebook offers data pipeline:
 
-1. Manual creation of the Baserow [Notebook offers](https://baserow.io/public/grid/q39BCdA9-8GFsRv_HIoyIJJjkUIPJ4FBZQ7WonqO2Ss)
-2. Extraction to CSV from public API in [Retrieve_baserow.ipynb](Retrieve_baserow.ipynb) →  [Offers.csv](Offers.csv)
-3. Plotting in [Offers_plot.ipynb](Offers_plot.ipynb)
+1. ✍️ Manual creation of the Baserow [Notebook offers](https://baserow.io/public/grid/q39BCdA9-8GFsRv_HIoyIJJjkUIPJ4FBZQ7WonqO2Ss) from  [ITjustGood](https://www.itjustgood.com/)
+2. 📡 Extraction to CSV from public API in [Retrieve_baserow.ipynb](Retrieve_baserow.ipynb) →  [Offers.csv](Offers.csv)
+3. 📊 Plotting in [Offers_plot.ipynb](Offers_plot.ipynb)
 
 CPU performance plots: see all plots in [Geekbench 6 plots](Geekbench%206%20plots)
 
 Example: Single & Multi-Core Geekbench 6 performance plot of each CPU of the short dataset: median and quantiles of the scores. Animated version (sorted by Single and then Multi-Core score)
 
-![Single & Multi-Core Geekbench 6 performance plot of each CPU of the short dataset: median and quantiles of the scores](Geekbench 6 plots/CPUs_GB6_logstats_short_sort-anim.gif)
+![Single & Multi-Core Geekbench 6 performance plot of each CPU of the short dataset: median and quantiles of the scores](Geekbench%206%20plots/CPUs_GB6_logstats_short_sort-anim.gif)
 
