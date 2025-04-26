@@ -18,8 +18,9 @@ Goal: quantify and compare the computing performance of refurbished notebooks, o
 
 - CPUs found in **typical refurbished office notebooks**, that is **midrange** & **low power** CPUs, aka Intel **Core i5** processors, from the [U series](https://www.makeuseof.com/intel-u-vs-p-vs-h-laptop-cpus/), but also corresponding AMD **Ryzen 5** processors (typically the PRO models)
 - Earliest model: Intel Core i5-5200U, from early 2015
-- Most recent model: Intel Core Ultra 125U/135U from late 2024 (the 2xx models from 2024 are also in the database, but without corresponding performance data due to their low deployment as of spring 2025)
-  - remark: recent Intel Core Ultra processors have a complicated list of references and are not yet available as refurbished notebooks, so it's my guess on what will be the "typical office notebook CPUs" of 2024-2025
+- Most recent model: Intel Core Ultra 125U/135U from late 2023
+  - Remark 1: recent Intel Core Ultra processors have a complicated list of references and are not yet available as refurbished notebooks, so it's my guess on what will be the "typical office notebook CPUs" of 2024-2025
+  - Remark 2: the Intel Core Ultra 2xx models from 2024 are also in the database, but without performance data due to their low deployment as of spring 2025. Also, this product line is even more complicated...
 
 ### Notebook offers selection:
 
@@ -51,7 +52,7 @@ The data collection of this project is available in two places:
 CPU data pipeline:
 
 1. 🤖 CPU performance data scraping and aggregation: [Retrieve_geekbench.ipynb](Retrieve_geekbench.ipynb), which accesses the website  https://browser.geekbench.com/ → [CPUs_GB6_stats.csv](CPUs_GB6_stats.csv)
-    - as a bonus create the detailed CPU performance charts, see the [Geekbench 6 plots](Geekbench%206%20plots) folder
+    - as a bonus create the detailed CPU performance charts, see the [Geekbench 6 plots](Geekbench%206%20plots) folder
 2. ✍️ Manual copy of performance data to the Baserow [CPUs](https://baserow.io/public/grid/wLq_Mhbx1y8jm7z82Y1GuqrCpNtOCkBqdHHgYqoNP0M) table
 3. 📡 Extraction to CSV from public API in [Retrieve_baserow.ipynb](Retrieve_baserow.ipynb) → [CPUs.csv](CPUs.csv)
 4. 📊 Plotting in [CPUs_plot.ipynb](CPUs_plot.ipynb) 
