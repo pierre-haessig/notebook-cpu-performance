@@ -2,11 +2,11 @@
 
 This post is meant to help people in search of a refurbished notebook. Indeed, it’s easy to get lost in the processors references (*“how does an Intel Core i5-8250U compares to an i5-10210U?”* Spoiler: they are almost the same!). It is the outcome of me researching whether it is worth replacing my Lenovo [Thinkpad T470](https://www.notebookcheck.net/Lenovo-ThinkPad-T470-Core-i5-Full-HD-Notebook-Review.198130.0.html) notebook, a 2017 model bought 2nd hand in 2020. While the conclusion is that I’ll probably wait a bit more, this was a nice data research about the evolution of the computing power of office notebooks over the last decade.
 
-In this post I focus on key results while the full dataset and associated Python code is available in the GitHub repository https://github.com/pierre-haessig/notebook-cpu-performance/. Also, there is a [CPUs table](https://baserow.io/public/grid/wLq_Mhbx1y8jm7z82Y1GuqrCpNtOCkBqdHHgYqoNP0M), with characteristics and performance scores hosted on [Baserow](https://baserow.io/). Testing this so-called “no-code” cloud database was an additional excuse for this project... While I don’t want to comment my experience here, I’ll just say I found it a neat alternative to spreadsheets for doing database-style work (e.g. creating links between tables).
+In this post, I focus on key results while the full dataset and associated Python code is available in the GitHub repository https://github.com/pierre-haessig/notebook-cpu-performance/. Also, there is a [CPUs table](https://baserow.io/public/grid/wLq_Mhbx1y8jm7z82Y1GuqrCpNtOCkBqdHHgYqoNP0M), with characteristics and performance scores hosted on [Baserow](https://baserow.io/). Testing this so-called “no-code” cloud database was an additional excuse for this project... While I don’t want to comment my experience here, I’ll just say I found it a neat alternative to spreadsheets for doing database-style work (e.g. creating links between tables).
 
 ### Dataset description
 
-**About the score**: I’ve extracted computing performance scores from the [Geekbench 6](https://www.geekbench.com/) data browser https://browser.geekbench.com/ which conveniently make their database public *(in exchange of Geekbench users automatically contributing to the database for free)*. This test provides two scores:
+**About the scores**: I’ve extracted computing performance scores from the [Geekbench 6](https://www.geekbench.com/) data browser https://browser.geekbench.com/ which conveniently make their database public *(in exchange of Geekbench users automatically contributing to the database for free)*. This test provides two scores:
 
 - **Single-Core** score is useful to assess the  execution speed of one application (webmail, text editor, spreadsheet...)
 - **Multi-Core** score is geared towards multitasking (or some computations which can exploit all processor cores like video encoding, I believe).
@@ -19,7 +19,7 @@ Geekbench explains that these scores are **proportional to the processing speed*
 
 Enough speaking, here are two graphs of processor performance.
 
-#### 1\) Ranked CPU performance
+#### 1\) Ranked CPU performance
 
 First a dot plot/boxplot chart showing  CPU performance, ranked by Single-Core performance (which is *close, but not quite*, the same as the Multi-Core rank):
 
@@ -31,7 +31,7 @@ The diamonds are the **median scores**, while the lines show the **variability**
 
 Notice that to avoid data overcrowding, this the “short” version of the chart where I picked one CPU model per generation, while there are typically two (like i5-1135 and i5-1145, with very close performance). The full chart variant (twice as long) can be found in the [chart repository](https://github.com/pierre-haessig/notebook-cpu-performance/tree/main/Geekbench%206%20plots), along with the variants sorted by Multi-Core score.
 
-#### 2\) CPU performance over time, with trend
+#### 2\) CPU performance over time, with trend
 
 The  second chart shows the **evolution of CPU performance over time**. Only the median score is shown here, to avoid overcrowding the graph, but with all the CPU models of the dataset. This graph is **interactive** (perhaps a mouse is required, though): hovering each point reveals the processor name and details like the number of cores.
 
