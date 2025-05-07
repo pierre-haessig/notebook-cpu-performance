@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Test page for Vega charts of CPU performance over time</title>
+  <meta name="author" content="Pierre Haessig">
+
+  <!-- Import Vega, Vega-Lite and vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+
+<h1>Test page for Vega charts of CPU performance over time</h1>
+
+
+<h2>CPU performance over time, linear scale</h2>
+<div id="vis-cpu-lin">Vega viz of CPU performance over time, linear scale</div>
+
+<script type="text/javascript">
+  var spec = 'https://raw.githubusercontent.com/pierre-haessig/notebook-cpu-performance/refs/heads/main/Geekbench%206%20plots/CPUs_bydate_linear_withreg.json';
+  vegaEmbed('#vis-cpu-lin', spec)
+    .then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    })
+    .catch(console.error);
+</script>
+
+<h2>CPU performance over time, log scale</h2>
+<div id="vis-cpu-log">Vega viz of CPU performance over time, log scale</div>
+
+<script type="text/javascript">
+  var spec = 'https://raw.githubusercontent.com/pierre-haessig/notebook-cpu-performance/refs/heads/main/Geekbench%206%20plots/CPUs_bydate_log_withreg.json';
+  vegaEmbed('#vis-cpu-log', spec)
+    .then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    })
+    .catch(console.error);
+</script>
+
+</body>
+</html>
